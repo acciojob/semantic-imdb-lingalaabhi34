@@ -1,2 +1,30 @@
 
 /* Your CSS Code here. */
+body{
+    width: 700px;
+    height: 400px;
+}
+header{
+    background-color: gray;
+    width: auto;
+}
+aside{
+    width: 40%;
+    left: 0px;
+    float: right;
+    width: 200px;
+}
+nav{
+    height: 40px;
+    background-color: black;
+    
+}
+nav>a{
+    color: yellow;
+    font-size: xx-large;
+    text-decoration: none;
+    margin-inline: 40px;
+}
+aside>img{
+	width:200px;
+}
